@@ -38,3 +38,7 @@ Predict wheather a person will claim for insurance or not.
 <img src="plots/plot5.png">
 <img src="plots/plot6.png">
 <img src="plots/plot7.png">
+
+## Conclusion
+
+Using DecisionTreeClassifier we have achieved a f1-score 0.99
