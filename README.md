@@ -23,3 +23,18 @@ Predict wheather a person will claim for insurance or not.
   <td>Body mass index of the person</td>
   </tr>
 </table>
+
+## EDA
+
+### Categorical features vs target
+
+<img src="plots/plot1.png">
+<img src="plots/plot2.png">
+<img src="plots/plot3.png">
+<img src="plots/plot4.png">
+
+### Numerical featires vs target
+
+<img src="plots/plot5.png">
+<img src="plots/plot6.png">
+<img src="plots/plot7.png">
